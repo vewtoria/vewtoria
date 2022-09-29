@@ -1,20 +1,18 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/vewtoria/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Vitória!</h1>
 
-- 🔥  
+- 👩🏻‍💻 Estudante de programação, caminhando para se tornar uma Dev Fullstack.
 
-- 🔭 
+- 🔎 Em busca do meu primeiro emprego em TI 
 
-- ⚡ Fun fact
+- 📝 Email: vitoriasa1996@hotmail.com
 
 ##
- 
 
 <div align="center">
   <a href="https://github.com/vewtoria">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vewtoria&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vewtoria&layout=compact&langs_count=7&theme=panda"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vewtoria&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vewtoria&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
 ## Habilidades
@@ -24,20 +22,21 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
   
 ## Estudando 
   
   <div>
-     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </div>
   
 ## Interesses 
   
   <div>
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
