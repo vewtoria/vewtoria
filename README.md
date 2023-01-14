@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 Estudante de programação, caminhando para se tornar uma Dev Fullstack.
 
-- 🔎 Em busca do meu primeiro emprego em TI 
+- 🔎 Caminhando para se tornar uma dev júnior! 
 
 - 📝 Email: vitoriasa1996@hotmail.com
 
